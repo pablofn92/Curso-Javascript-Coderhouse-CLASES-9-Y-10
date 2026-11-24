@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "nombre": "Shampoo",
+    "precio": 3000,
+    "categoria": "Higiene",
+    "imagen": "./img/shampoo.jpg",
+    "descripcion": "Shampoo para cabello suave",
+    "stock": 0
+  },
+  {
+    "id": 1,
+    "nombre": "Acondicionador",
+    "precio": 3500,
+    "categoria": "Higiene",
+    "imagen": "./img/acondicionador.jpg",
+    "descripcion": "Acondicionador hidratante",
+    "stock": 8
+  },
+  {
+    "id": 2,
+    "nombre": "Desengrasante",
+    "precio": 2000,
+    "categoria": "Limpieza",
+    "imagen": "./img/desengrasante.jpg",
+    "descripcion": "Desengrasante para superficies",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "nombre": "Rollo de cocina",
+    "precio": 1800,
+    "categoria": "Limpieza",
+    "imagen": "./img/rollo-cocina.jpg",
+    "descripcion": "Rollo de papel para cocina",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Desinfectante",
+    "precio": 1500,
+    "categoria": "Limpieza",
+    "imagen": "./img/desinfectante.jpg",
+    "descripcion": "Desinfectante para superficies",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "nombre": "Jabón de tocador",
+    "precio": 1200,
+    "categoria": "Higiene",
+    "imagen": "./img/jabon-tocador.jpg",
+    "descripcion": "Jabón de tocador para piel sensible",
+    "stock": 20
+  }
+]
